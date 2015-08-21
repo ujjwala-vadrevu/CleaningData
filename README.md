@@ -25,14 +25,14 @@ For the CodeBook creation, the R library memisc was used. The intial 2 lines wer
 
 ## Refereces
 
-*For technical assistance : www.stackoverflow.com
-*For the purpose of understanding the requirements of the assignment : course forums. Specifics below.
+* For technical assistance : www.stackoverflow.com
+* For the purpose of understanding the requirements of the assignment : course forums. Specifics below.
 - https://class.coursera.org/getdata-031/forum/thread?thread_id=28
 - https://class.coursera.org/getdata-031/forum/thread?thread_id=130
 - https://class.coursera.org/getdata-031/forum/thread?thread_id=130#comment-408
-*For preparation of this read me file : https://gist.github.com/jxson/1784669
-*For codebook generation :
--https://cran.r-project.org/web/packages/memisc/memisc.pdf
--https://github.com/vrajs5/Getting-and-Cleaning-Data/blob/master/CodeBook-Generation.R
+* For preparation of this read me file : https://gist.github.com/jxson/1784669
+* For codebook generation :
+- https://cran.r-project.org/web/packages/memisc/memisc.pdf
+- https://github.com/vrajs5/Getting-and-Cleaning-Data/blob/master/CodeBook-Generation.R
 
 
