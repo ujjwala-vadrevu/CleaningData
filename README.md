@@ -4,12 +4,12 @@ This is the course project for the Coursera Course Getting and Cleaning Data.
 
 ## Steps followed in the cleaning process
 
-. loading the column names from featuers.txt
-. merging training and test datasets
-. subsetting the column names containing the strings mean or Mean or std from the fullData data frame
-. adding activity Names corresponding to the activityId
-. processing the col names to make them accurate and descriptive
-. creating independent dataset with averages uing dplyr package
+* loading the column names from featuers.txt
+* merging training and test datasets
+* subsetting the column names containing the strings mean or Mean or std from the fullData data frame
+* adding activity Names corresponding to the activityId
+* processing the col names to make them accurate and descriptive
+* creating independent dataset with averages uing dplyr package
 
 ## Choosing Columns
 
@@ -25,13 +25,14 @@ For the CodeBook creation, the R library memisc was used
 
 ## Refereces
 
-For technical assistance : www.stackoverflow.com
-For the purpose of understanding the requirements of the assignment : course forums. Specifics below.
-. https://class.coursera.org/getdata-031/forum/thread?thread_id=28
-. https://class.coursera.org/getdata-031/forum/thread?thread_id=130
-. https://class.coursera.org/getdata-031/forum/thread?thread_id=130#comment-408
-For preparation of this read me file : https://gist.github.com/jxson/1784669
-For codebook generation : https://cran.r-project.org/web/packages/memisc/memisc.pdf
-https://github.com/vrajs5/Getting-and-Cleaning-Data/blob/master/CodeBook-Generation.R
+*For technical assistance : www.stackoverflow.com
+*For the purpose of understanding the requirements of the assignment : course forums. Specifics below.
+- https://class.coursera.org/getdata-031/forum/thread?thread_id=28
+- https://class.coursera.org/getdata-031/forum/thread?thread_id=130
+- https://class.coursera.org/getdata-031/forum/thread?thread_id=130#comment-408
+*For preparation of this read me file : https://gist.github.com/jxson/1784669
+*For codebook generation :
+-https://cran.r-project.org/web/packages/memisc/memisc.pdf
+-https://github.com/vrajs5/Getting-and-Cleaning-Data/blob/master/CodeBook-Generation.R
 
 
