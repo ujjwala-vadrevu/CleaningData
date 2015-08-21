@@ -21,7 +21,7 @@ A long dataset was chosen with 180 rows (30 subjects * 6 activities) and 88 colu
 
 ## CodeBook Creation
 
-For the CodeBook creation, the R library memisc was used
+For the CodeBook creation, the R library memisc was used. The intial 2 lines were added manually for better redability in the codebook.
 
 ## Refereces
 
