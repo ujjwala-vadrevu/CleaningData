@@ -106,4 +106,6 @@ description(dt)
 CodeBook <- codebook(dt)
 
 # saving codebook as a markdownfile
-capture.output(CodeBook, file = 'CodeBook.md')
+capture.output(description(dt),file = 'CodeBook.md', append=FALSE)
+capture.output(CodeBook, file = 'CodeBook.md',append = TRUE)
+
